@@ -1,3 +1,10 @@
-export default function MovieDetailPage() {
-  return <h1>movie detail</h1>;
+export default function StoryDetails() {
+  return (
+    <div>
+      <h1>Story Details</h1>
+  
+    </div>
+  );
+
+
 }
